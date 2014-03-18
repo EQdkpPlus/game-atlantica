@@ -24,25 +24,26 @@ if ( !defined('EQDKP_INC') )
 
 $english_array = array(
 	'classes' => array(
-		0 => 'Unknown',
-		1 => 'Axe',
-		2 => 'Bow',
-		3 => 'Cannon',
-		4 => 'Gun',
-		5 => 'Maniac',
-		6 => 'Musician',
-		7 => 'Spear',
-		8 => 'Staff',
-		9 => 'Sword'
+		0	=> 'Unknown',
+		1	=> 'Axe',
+		2	=> 'Bow',
+		3	=> 'Cannon',
+		4	=> 'Gun',
+		5	=> 'Maniac',
+		6	=> 'Musician',
+		7	=> 'Spear',
+		8	=> 'Staff',
+		9	=> 'Sword'
 	),
 	'races' => array(
-		'Atlantian',
+		0	=> 'Unknown',
+		1	=> 'Atlantian',
 	),
 	'lang' => array(
-		'atlantica' => 'Atlantica Online',
-		'melee' => 'Melee',
-		'ranged' => 'Ranged',
-		'magic' => 'Magic',
+		'atlantica'				=> 'Atlantica Online',
+		'melee'					=> 'Melee',
+		'ranged'				=> 'Ranged',
+		'magic'					=> 'Magic',
 	),
 );
 ?>
