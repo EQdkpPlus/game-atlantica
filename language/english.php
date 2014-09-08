@@ -40,10 +40,15 @@ $english_array = array(
 		1	=> 'Atlantian',
 	),
 	'lang' => array(
-		'atlantica'				=> 'Atlantica Online',
-		'melee'					=> 'Melee',
-		'ranged'				=> 'Ranged',
-		'magic'					=> 'Magic',
+		'atlantica'					=> 'Atlantica Online',
+		'melee'						=> 'Melee',
+		'ranged'					=> 'Ranged',
+		'magic'						=> 'Magic',
+		'uc_race'					=> 'Race',
+		'uc_class'					=> 'Class',
+
+		// Admin Settings
+		'core_sett_fs_gamesettings'	=> 'Atlantica Online Settings',
 	),
 );
 ?>
