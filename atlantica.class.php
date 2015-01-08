@@ -26,7 +26,7 @@ if ( !defined('EQDKP_INC') ){
 if(!class_exists('atlantica')) {
 	class atlantica extends game_generic {
 		protected static $apiLevel	= 20;
-		public $version				= '2.2';
+		public $version				= '2.3.0';
 		protected $this_game		= 'atlantica';
 		protected $types			= array('classes', 'races', 'filters');
 		protected $classes			= array();
